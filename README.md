@@ -1,39 +1,112 @@
+# I2 Website
+
+Thanks to Kevin Lin, creator of Just the Class, the template upon which this website is based.
+
+## How to Use/Update
+
+### Basic pages:
+
+Pages can be created under the `_main`, `_initiatives`, or `_archives` folders, and each one has a header at the top.
+
+```
 ---
-layout: home
-title: Just the Class
-nav_exclude: true
-permalink: /:path/
-seo:
-  type: Course
-  name: Just the Class
+layout: page                                    <-- How to organize the page. Page is default, more can be found at [JustTheDocs](https://just-the-docs.com/).
+title: About                                    <-- The name of the page.
+permalink: /about                               <-- IMPORTANT: How you want the user to access the page on the website, regardless of where it is in this repo.
+nav_order: 2                                    <-- Order in the title bar dropdown. Relative not absolute.
+description: I2's purpose, mission, and goals.  <-- Description of the page.
 ---
+```
 
-# Just the Class
+#### Styling Elements with Tags
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Headings (markdown format) can be used to specify page sections. There are also `{tags} `that can be added to format the page. Below is an example.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+```
+# About                  <-- Creates a heading.
+{:.no_toc}               <-- Makes this tag NOT appear in the table of contents.
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+## Table of contents
+{: .no_toc .text-delta } <-- Makes this tag NOT appear in the table of contents AND formats it to look fancy.
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+1. TOC                   <-- Syntax for table of content creation.
+{:toc}                   <-- Syntax for table of content creation.
+```
+Here is a list of strings you can place in tags (curly braces) to add properties (text style,weight, clickable, etc.) to elements: [UI Components](https://just-the-docs.com/docs/ui-components).
 
-## Getting Started
+Also see: [Website Guide](https://interactive-intelligence.github.io/internal/website-guide/)
 
-Getting started with Just the Class is simple.
+### Creating child/grandchild pages:
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+Example of a page that has children.
+```
+---
+layout: default
+title: Projects
+nav_order: 4
+has_children: true
+permalink: /projects
+---
+```
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+Example of a child page.
 
-### Local development environment
+```
+---
+layout: default
+title: Emergent Language
+parent: Projects
+nav_order: 10
+has_children: true
+permalink: /projects/emergent-lang
+---
+```
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+Example of a grandchild page.
+
+```
+---
+layout: default
+title: Experiments
+parent: Emergent Language
+grand_parent: Projects
+nav_order: 3
+permalink: /projects/emergent-lang/exp
+---
+```
+
+They will naturally be nested in the menu dropdown!
+
+You can only have grandchildren pages. No great-grandchildren!
+
+### More Styling
+
+The markdown syntax for links will force open links in the same window, wiping the page out. If you want external links to work properly, create them as such:
+```
+[projects](https://interactive-intelligence.github.io/projects){:target="_blank"}
+```
+Note the special tag: `{:target="_blank"}`. This is what opens in a new window.
+
+`_sass/color_schemes/custom.scss` holds colors for the whole website.
+
+`|pipe bars|` create tables
+
+### Complex Pages
+
+An example of how to create complex cards on pages with images can be seen in `_staffers`, `_staff.md`, and `_layouts/staffer.html`.
+
+### Specifying Data
+
+In `assets/images` you can upload photos, and then put them in the top tag/metadata tag of pages. These can then be rendered with some basic logic (see `_staff.md`, `_layouts/staffer.html`).
+
+### Calendar Page
+
+`schedule.md`,`_schedules` holds information to create calendars. Make sure these are up to date!
+
+### Configurations File
+
+`_config.yaml` Holds auxilary links, meta-level information about the site (where to route, put images), and more high-level items like the footer content.
+
+## The Repository
+
+Try and fill out this `README` with more helpful information! Also be sure to check the render of the website after you push.
