@@ -40,7 +40,7 @@ aux_links:
   "Intro Course":
     - "https://interactive-intelligence.github.io/intro-neuro-ai-website/"
   "I2 Labs":
-    - "https://i2-labs.org/"
+    - "https://i2-labs.onrender.com/"
 
 # Collections for website data
 collections:
