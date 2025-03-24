@@ -3,8 +3,6 @@ layout: page
 title: "Textbook"
 permalink: /textbook
 description: Our introductory course textbook
+redirect_to:
+  - https://grimoire.uw-i2.org
 ---
-
-# Redirecting to GitHub
-
-<meta http-equiv="refresh" content="0; url=https://github.com/interactive-intelligence/I2-grimoire/blob/PDF/I2%20Grimoire.pdf" />
