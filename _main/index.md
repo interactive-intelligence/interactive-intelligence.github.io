@@ -48,6 +48,8 @@ I2 is UW's student led NeuroAI education and research organization. I2 is an env
 
 ## Announcements
 
+| **3/29/2025** It's been a long time since we had an announcement, so we will make one! The left sidebar has been reorganized, and a link to the new I2 Grimoire textbook was added! |
+
 | **11/2/2023** Long overdue website overhaul has begun! Projects are up to date as of November 2023 and links should take you to the proper places. Happy browsing! |
 
 | **9/10/2022** The paper "Deinforcement Learning" has been accepted into the Canadian Undergraduate Journal of Cognitive Neuroscience! Congrats to the RL team. |
