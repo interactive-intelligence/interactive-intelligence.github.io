@@ -1,6 +1,6 @@
 ---
 name: Elizabeth Bui
-role: Member
+role: Alumni
 email: kaitebui@uw.edu 
 website: [https://www.linkedin.com/in/alecbunn/](https://www.linkedin.com/in/k-elizabeth-bui-acms)
 photo: elizabeth.png

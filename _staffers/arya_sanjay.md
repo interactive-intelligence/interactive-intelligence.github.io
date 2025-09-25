@@ -1,6 +1,6 @@
 ---
 name: Arya Sanjay
-role: Officer
+role: President
 email: aryas1@cs.washington.edu
 photo: arya_s.jpg
 ---

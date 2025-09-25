@@ -1,6 +1,6 @@
 ---
 name: Misha Nivota
-role: Officer
+role: President
 email: mnivota@uw.edu
 photo: misha_nivota.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 name: Chaytan Inman
-role: President
+role: Founder
 email: chaytan@uw.edu
 website: https://www.linkedin.com/in/chaytan-inman/
 photo: chaytan.png
