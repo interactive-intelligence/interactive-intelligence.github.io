@@ -109,17 +109,17 @@
 
 .fc .fc-scrollgrid-sync-table {
   border: none;
-  border-radius: 0 0 12px 12px;
-  overflow: hidden;
+  // border-radius: 0 0 12px 12px;
+  // overflow: hidden;
 }
-
-.fc th.fc-col-header-cell.fc-day.fc-day-sat {
-  border-top-right-radius: 12px;
-}
-
-.fc th.fc-col-header-cell.fc-day.fc-day-sun {
-  border-top-left-radius: 12px;
-}
+//
+// .fc th.fc-col-header-cell.fc-day.fc-day-sat {
+//   border-top-right-radius: 12px;
+// }
+//
+// .fc th.fc-col-header-cell.fc-day.fc-day-sun {
+//   border-top-left-radius: 12px;
+// }
 
 // .fc .fc-daygrid-body {
 //   border-radius: 12px;
