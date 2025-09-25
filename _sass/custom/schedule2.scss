@@ -37,8 +37,23 @@
 }
 
 .fc .fc-button {
-  padding: 0.2em 0.5em;
+  border-radius: 6px;
+  transition: background 0.2s ease, transform 0.1s ease;
 }
+.fc .fc-button:hover {
+  transform: translateY(-1px);
+}
+
+// .fc-today-button {
+//   font-weight: bold;
+//   background: #2d3748 !important;
+//   color: white !important;
+// }
+
+
+// .fc .fc-button {
+//   padding: 0.2em 0.5em;
+// }
 
 .fc .fc-button.fc-next-button, .fc .fc-button.fc-prev-button {
   box-sizing: content-box;
@@ -58,6 +73,55 @@
   border: none;
 }
 
-#calendar .fc-scrollgrid-sync-table {
-  border: 1px solid var(--fc-border-color) !important;
+// .fc .fc-toolbar {
+//   background: linear-gradient(135deg, #7289da, #453ca8);
+//   color: white;
+//   border-radius: 8px;
+//   padding: 0.5rem;
+// }
+
+.fc-event:hover {
+  filter: brightness(1.1);
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
 }
+
+#calendar {
+  border: 0.5px solid var(--fc-border-color);
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  padding: 1.0rem;
+}
+
+
+.fc-day-sat, .fc-day-sun {
+  background-color: #f9fafb;
+}
+
+// .fc-day-today {
+//   background: #e2e8ff !important;
+//   border: 1px solid #7289da !important;
+// }
+
+.fc .fc-scrollgrid-sync-table td {
+  border: none;
+}
+
+.fc .fc-scrollgrid-sync-table {
+  border: none;
+  border-radius: 0 0 12px 12px;
+  overflow: hidden;
+}
+
+.fc th.fc-col-header-cell.fc-day.fc-day-sat {
+  border-top-right-radius: 12px;
+}
+
+.fc th.fc-col-header-cell.fc-day.fc-day-sun {
+  border-top-left-radius: 12px;
+}
+
+// .fc .fc-daygrid-body {
+//   border-radius: 12px;
+//   overflow: hidden;
+// }
