@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-[ical url](https://calendar.google.com/calendar/ical/fe3bc5fcf625903e24af9c0b19158ced9d96fc549ecc9253c44b9b4dfe6b517f%40group.calendar.google.com/public/basic.ics)
+Ical URL: <https://calendar.google.com/calendar/ical/fe3bc5fcf625903e24af9c0b19158ced9d96fc549ecc9253c44b9b4dfe6b517f%40group.calendar.google.com/public/basic.ics>
 
 <!-- - Journal Club: Tuesdays, 6:00 - 7:00 PM, Sieg 332
 - Team Meetings: Fridays, 5:00 PM - 6:00 PM, Sieg 233
