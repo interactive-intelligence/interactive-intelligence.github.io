@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 <br>
-ICal URL:
+iCal URL:
 ```
 https://calendar.google.com/calendar/ical/fe3bc5fcf625903e24af9c0b19158ced9d96fc549ecc9253c44b9b4dfe6b517f%40group.calendar.google.com/public/basic.ics
 ```
