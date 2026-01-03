@@ -20,7 +20,7 @@ description: I2's purpose, mission, and goals.
 
 ## About
 
-Interactive Intelligence is a team of students at the University of Washington working to make computation resemble what humans describe as intelligence. We are uniquely interdisciplinary, blending ideas from neuroscience to inform the structure of our algorithms and computations. We explore the many different approaches of engineered intelligence, from neuromorphic hardware to meta-cognitive machine learning algorithms. Currently, we are running several [projects](https://uw-i2.org/legacy-projects){:target="_blank"} and have produced a growing body of [research](https://interactive-intelligence.github.io/research){:target="_blank"}. Additionally, we routinely host [I2 Talks](https://www.youtube.com/@interactiveintelligence/featured){:target="_blank"} and often invite [notable figures](http://uw-i2.org/jc/fall2022/chong){:target="_blank"} in the field. You can explore additional content we produce [here](https://interactive-intelligence.github.io/resources/topic-index){:target="_blank"}.
+Interactive Intelligence is a team of students at the University of Washington working to make computation resemble what humans describe as intelligence. We are uniquely interdisciplinary, blending ideas from neuroscience to inform the structure of our algorithms and computations. We explore the many different approaches of engineered intelligence, from neuromorphic hardware to meta-cognitive machine learning algorithms. Currently, we are running several [research projects](https://uw-i2.org/legacy-projects){:target="_blank"} and have produced a growing body of [published research](https://interactive-intelligence.github.io/research){:target="_blank"}. Additionally, we routinely host [I2 Talks](https://www.youtube.com/@interactiveintelligence/featured){:target="_blank"} and often invite [notable figures in the field](http://uw-i2.org/jc/fall2022/chong){:target="_blank"}. You can explore additional content we produce [on our Topic Index](https://interactive-intelligence.github.io/resources/topic-index){:target="_blank"}.
 
 We are affiliated with the Allen School and the Center for Neurotechnology. We are advised by Dr. Eric Chudler and collaborate with other faculty.
 
@@ -55,14 +55,14 @@ There are no eligibility requirements.
 {:.no_toc}
 *Officer Descriptions*
 
-| Officer | Description |
+| Officer Role | Responsibilities |
 | --- | --- |
-| President | Organization logistics, meetings, finances, club vision and purpose, recruiting, final say on use of funds
+| President | Organization logistics, meetings, finances, club vision and purpose, recruiting, final say on use of funds. |
 | Officers (4) | Logistics, meetings, finances, recruiting |
 
 *Term of Office*
 
-| Officer | Description |
+| Officer Role | Term Length |
 | --- | --- |
 | President | Indefinite unless graduated from UW, inactivity, or voted to be removed by at least 3 officers, or resignation. |
 | Officers (4) | Elections held in the Fall of each year, can be reelected indefinitely, also subject to removal by a vote of at least 3 other officers or termination due to inactivity. |
