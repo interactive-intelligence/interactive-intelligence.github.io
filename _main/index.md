@@ -64,13 +64,13 @@ Use the links below to connect with I2 on our social platforms:
 
 | **4/5/2022** Welcome [Dr. Eric Chudler](https://interactive-intelligence.github.io/staff#faculty-advisors){:target="_blank"}, our first faculty advisor! |
 
-| **3/14/2022** Notes for the last JC of the week have been published [here](https://interactive-intelligence.github.io/jc/win2022/meeting-3). Good luck finals & enjoy spring break! See you all in spring quarter. |
+| **3/14/2022** Notes for the last Journal Club of the week have been published [variational autoencoders recording here](https://interactive-intelligence.github.io/jc/win2022/meeting-3). Good luck finals & enjoy spring break! See you all in spring quarter. |
 
-| **3/11/2022** Meeting notes and slides for our last meeting of the quarter have been published [here](https://interactive-intelligence.github.io/meetings/win2022/meeting-5). We will not have another meeting next Friday (finals week) or the Friday after that (Spring Break), but we will have a Journal Club this upcoming Monday (3/14) at HUB 238 from 5 to 7 PM. See you there for the last JC of the quarter! Also see the updated [Topic Index](https://interactive-intelligence.github.io/resources/topic-index) to quickly navigate content members have created. |
+| **3/11/2022** Meeting notes and slides for our last meeting of the quarter have been published [Winter 2025 Meeting 5 Slides & Notes](https://interactive-intelligence.github.io/meetings/win2022/meeting-5). We will not have another meeting next Friday (finals week) or the Friday after that (Spring Break), but we will have a Journal Club this upcoming Monday (3/14) at HUB 238 from 5 to 7 PM. See you there for the last JC of the quarter! Also see the updated [Topic Index](https://interactive-intelligence.github.io/resources/topic-index) to quickly navigate content members have created. |
 
 | **3/7/2022** Our next meeting (Meeting 5) will be two and a half hours long, thirty minutes longer than our usual meetings. Check out the agenda for [Meeting 5](https://interactive-intelligence.github.io/meetings/win2022/meeting-5). |
 
-| **3/6/2022** I2 officially has an [Instagram](https://www.instagram.com/uw_i2/){:target="_blank"}! Thanks to Sabrina for managing our social media presence. Keep posted for updates and information there! |
+| **3/6/2022** I2 officially has an [Instagram account](https://www.instagram.com/uw_i2/){:target="_blank"}! Thanks to Sabrina for managing our social media presence. Keep posted for updates and information there! |
 
 | **3/5/2022** Notes for [Meeting 4](https://interactive-intelligence.github.io/meetings/win2022/meeting-4) have been published. Thanks to the Reinforcement Learning and Neuromorphic Computing groups for awesome presentations! |
 
