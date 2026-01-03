@@ -15,13 +15,15 @@ seo:
 Fusing neuroscience and AI to study intelligent computational systems
 {: .fs-6 .fw-300 }
 
-![](https://interactive-intelligence.github.io/assets/images/site-banner.png)
+![I2 Interactive Intelligence banner with a blue purple gradient and a brain in the center](https://interactive-intelligence.github.io/assets/images/site-banner.png)
 
-I2 is UW's student led NeuroAI education and research organization. I2 is an environment which aims to create a community of project-driven, outcome-oriented students at the University of Washington interested in the intersections of artificial intelligence, cognitive science, neuroscience, and philosophy. Our goal is to make machines learn like humans. We offer an introductory course to students who want to get into the field, and support for those who wish to contribute to it through research!
+I2 is UW's student led NeuroAI education and research organization. I2 is an environment which aims to create a community of project-driven, outcome-oriented students at the University of Washington interested in the intersections of artificial intelligence, cognitive science, neuroscience, and philosophy. Our goal is to make machines learn like humans. We offer an introductory course to students who want to get into the field, and support for those who wish to contribute to it through research! 
+
+Use the links below to connect with I2 on our social platforms:
 
 [Discord 🤖](https://discord.gg/D88jazKwj3){: .btn }
 [Email 📧](mailto:interintel@uw.edu){: .btn }
-[Insta 📸](https://www.instagram.com/uw_i2/){: .btn }
+[Instagram 📸](https://www.instagram.com/uw_i2/){: .btn }
 [YouTube 📺](https://www.youtube.com/channel/UCnOSBig3HbEHFUi2HBA7EtA){: .btn }
 [Twitter 📱](https://twitter.com/InteractiveInt9){: .btn }
 [LinkTree 🌳](https://linktr.ee/interactive_intelligence){: .btn }
@@ -37,11 +39,11 @@ I2 is UW's student led NeuroAI education and research organization. I2 is an env
 *Affiliated with...*
 
 <center>
-<img src="https://user-images.githubusercontent.com/73039742/168341119-2b12fe20-e93f-49fb-a4dd-bb3538811067.png" width="50%" />
+<img src="https://user-images.githubusercontent.com/73039742/168341119-2b12fe20-e93f-49fb-a4dd-bb3538811067.png" alt="University of Washington Paul G. Allen School of Computer Science and Engineering logo" width="50%" />
 </center>
 
 <center>
-<img src="https://user-images.githubusercontent.com/73039742/168341203-af039d67-8607-4234-a286-25360d536169.png" width="50%" />
+<img src="https://user-images.githubusercontent.com/73039742/168341203-af039d67-8607-4234-a286-25360d536169.png" alt="Center for Neurotechnology logo" width="50%" />
 </center>
 
 
