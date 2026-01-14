@@ -35,9 +35,9 @@ ga_tracking: UA-220485381-1
 ga_tracking_anonymize_ip: false # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 aux_links:
-  "Pub":
+  "I2 Pub":
     - "https://interactive-intelligence.github.io/pub/"
-  "Intro Course":
+  "Intro Course Website":
     - "https://interactive-intelligence.github.io/intro-neuro-ai-website/"
   "I2 Labs":
     - "https://i2-labs.onrender.com/"
