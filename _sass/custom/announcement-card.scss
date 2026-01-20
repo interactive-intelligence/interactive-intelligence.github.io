@@ -1,0 +1,7 @@
+.announcement-card {
+  @extend %card;
+  font-size: 14px;
+  padding: 8px 12px 12px 12px;
+
+  display: block;
+}
