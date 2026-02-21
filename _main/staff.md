@@ -27,13 +27,6 @@ Meet our awesome team members!
 {{ staffer }}
 {% endfor %}
 
-## 2024-2025 Presidents
-
-{% assign president = site.staffers | where: 'role', 'President2425' %}
-{% for staffer in president %}
-{{ staffer }}
-{% endfor %}
-
 ## Officers
 
 {% assign officers = site.staffers | where: 'role', 'Officer' %}
