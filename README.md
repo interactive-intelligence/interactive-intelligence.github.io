@@ -1,4 +1,4 @@
-# I2 Website
+# i2 Website
 
 Thanks to Kevin Lin, creator of Just the Class, the template upon which this website is based.
 
@@ -14,7 +14,7 @@ layout: page                                    <-- How to organize the page. Pa
 title: About                                    <-- The name of the page.
 permalink: /about                               <-- IMPORTANT: How you want the user to access the page on the website, regardless of where it is in this repo.
 nav_order: 2                                    <-- Order in the title bar dropdown. Relative not absolute.
-description: I2's purpose, mission, and goals.  <-- Description of the page.
+description: i2's purpose, mission, and goals.  <-- Description of the page.
 ---
 ```
 
