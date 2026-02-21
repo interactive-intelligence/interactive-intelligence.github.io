@@ -20,7 +20,7 @@ description: I2's purpose, mission, and goals.
 
 ## About
 
-Interactive Intelligence is a team of students at the University of Washington working to make computation resemble what humans describe as intelligence. We are uniquely interdisciplinary, blending ideas from neuroscience to inform the structure of our algorithms and computations. We explore the many different approaches of engineered intelligence, from neuromorphic hardware to meta-cognitive machine learning algorithms. Currently, we are running several [research projects](https://uw-i2.org/legacy-projects){:target="_blank"} and have produced a growing body of [published research](https://interactive-intelligence.github.io/research){:target="_blank"}. Additionally, we routinely host [I2 Talks](https://www.youtube.com/@interactiveintelligence/featured){:target="_blank"} and often invite [notable figures in the field](http://uw-i2.org/jc/fall2022/chong){:target="_blank"}. You can explore additional content we produce [on our Topic Index](https://interactive-intelligence.github.io/resources/topic-index){:target="_blank"}.
+Interactive Intelligence is a team of students at the University of Washington working to make computation resemble what humans describe as intelligence. We are uniquely interdisciplinary, blending ideas from neuroscience to inform the structure of our algorithms and computations. We explore the many different approaches of engineered intelligence, from neuromorphic hardware to meta-cognitive machine learning algorithms. Currently, we are running several [research projects](https://uw-i2.org/legacy-projects){:target="_blank"} and have produced a growing body of [published research](https://interactive-intelligence.github.io/research){:target="_blank"}. Additionally, we routinely host [i2 Talks](https://www.youtube.com/@interactiveintelligence/featured){:target="_blank"} and often invite [notable figures in the field](http://uw-i2.org/jc/fall2022/chong){:target="_blank"}. You can explore additional content we produce [on our Topic Index](https://interactive-intelligence.github.io/resources/topic-index){:target="_blank"}.
 
 We are affiliated with the Allen School and the Center for Neurotechnology. We are advised by Dr. Eric Chudler and collaborate with other faculty.
 
@@ -35,7 +35,7 @@ Registered Student Organization Constitution of: Interactive Intelligence
 
 ### Article II: Group Purpose
 {:.no_toc}
-I2 is an environment which aims to create a community of project-driven, outcome-oriented students interested in the intersections of reinforcement learning, embodied artificial intelligence, and neuroscience. We make machines learn like humans.
+i2 is an environment which aims to create a community of project-driven, outcome-oriented students interested in the intersections of reinforcement learning, embodied artificial intelligence, and neuroscience. We make machines learn like humans.
 
 ### Article III: Affiliations
 {:.no_toc}
