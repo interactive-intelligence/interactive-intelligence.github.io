@@ -1,6 +1,6 @@
 ---
 name: Benjamin So
-role: Officer
+role: inactive
 email: benso10@uw.edu
 photo: benjamin_so.png
 ---

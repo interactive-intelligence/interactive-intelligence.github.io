@@ -1,6 +1,6 @@
 ---
 name: Vaibhav Paranji
-role: Officer
+role: Alumni
 email: paranjivaibhav@gmail.com
 photo: vaibhav_paranji.jpg
 ---

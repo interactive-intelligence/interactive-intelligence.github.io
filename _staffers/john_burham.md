@@ -1,6 +1,6 @@
 ---
 name: John Burnham
-role: Officer
+role: Alumni
 email: johnburn@uw.edu
 photo: john_burnham.jpg
 ---

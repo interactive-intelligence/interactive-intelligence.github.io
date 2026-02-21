@@ -1,6 +1,6 @@
 ---
 name: Eric Ye
-role: President2425
+role: Officer
 email: ericy4@uw.edu
 photo: eric_ye.jpg
 ---

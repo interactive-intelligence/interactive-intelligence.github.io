@@ -1,6 +1,6 @@
 ---
 name: Rohan Pandey
-role: Officer
+role: inactive
 email: rpande@uw.edu
 photo: rohan_pandey.jpg
 ---

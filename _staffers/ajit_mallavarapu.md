@@ -1,6 +1,6 @@
 ---
 name: Ajit Mallavarapu
-role: Officer
+role: inactive
 email: aj1tmallav@gmail.com
 photo: ajit_mallavarapu.jpg
 ---

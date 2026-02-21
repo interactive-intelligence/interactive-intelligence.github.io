@@ -1,6 +1,6 @@
 ---
 name: Nash Rickert
-role: Member
+role: inactive
 email: nashr2@uw.edu
 website: https://www.instagram.com/nashrickert/?hl=en
 photo: nash.jpg

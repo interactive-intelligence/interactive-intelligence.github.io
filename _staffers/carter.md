@@ -1,6 +1,6 @@
 ---
 name: Carter Swartout
-role: Officer
+role: Alumni
 email: swartout@uw.edu
 website: https://cswartout.com
 photo: carter.jpg

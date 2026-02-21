@@ -1,6 +1,6 @@
 ---
 name: Marlene Meili Liu Grieskamp
-role: Member
+role: inactive
 email: mgrieskamp@gmail.com
 website: https://www.linkedin.com/in/marlene-grieskamp
 photo: marlene.jpg
