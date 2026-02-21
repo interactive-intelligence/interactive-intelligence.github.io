@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about
 nav_order: 2
-description: I2's purpose, mission, and goals.
+description: i2's purpose, mission, and goals.
 ---
 
 # About
