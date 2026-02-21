@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: I2
+title: i2
 tagline: Fusing neuroscience and AI to study intelligent computational systems
 description: Fusing neuroscience and AI to study intelligent computational systems
 baseurl: '' # the subpath of your site, e.g. /blog
@@ -27,7 +27,7 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-footer_content: I2 - Fusing neuroscience and AI to study intelligent computational systems. Contact us at interintel@uw.edu.
+footer_content: i2 - Fusing neuroscience and AI to study intelligent computational systems. Contact us at interintel@uw.edu.
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
@@ -35,11 +35,11 @@ ga_tracking: UA-220485381-1
 ga_tracking_anonymize_ip: false # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 aux_links:
-  "I2 Pub":
+  "i2 Pub":
     - "https://interactive-intelligence.github.io/pub/"
   "Intro Course Website":
     - "https://interactive-intelligence.github.io/intro-neuro-ai-website/"
-  "I2 Labs":
+  "i2 Labs":
     - "https://i2-labs.onrender.com/"
 
 # Collections for website data
