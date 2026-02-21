@@ -9,17 +9,17 @@ seo:
   name: Home
 ---
 
-# I2: Interactive Intelligence
+# i2: Interactive Intelligence
 {: .mb-2 .text-green-000}
 
 Fusing neuroscience and AI to study intelligent computational systems
 {: .fs-6 .fw-300 }
 
-![I2 Interactive Intelligence banner with a blue purple gradient and a brain in the center](https://interactive-intelligence.github.io/assets/images/site-banner.png)
+![i2 Interactive Intelligence banner with a blue purple gradient and a brain in the center](https://interactive-intelligence.github.io/assets/images/site-banner.png)
 
-I2 is UW's student led NeuroAI education and research organization. I2 is an environment which aims to create a community of project-driven, outcome-oriented students at the University of Washington interested in the intersections of artificial intelligence, cognitive science, neuroscience, and philosophy. Our goal is to make machines learn like humans. We offer an introductory course to students who want to get into the field, and support for those who wish to contribute to it through research! 
+i2 is UW's student led NeuroAI education and research organization. i2 is an environment which aims to create a community of project-driven, outcome-oriented students at the University of Washington interested in the intersections of artificial intelligence, cognitive science, neuroscience, and philosophy. Our goal is to make machines learn like humans. We offer an introductory course to students who want to get into the field, and support for those who wish to contribute to it through research! 
 
-Use the links below to connect with I2 on our social platforms:
+Use the links below to connect with i2 on our social platforms:
 
 [Discord 🤖](https://discord.gg/D88jazKwj3){: .btn }
 [Email 📧](mailto:interintel@uw.edu){: .btn }
@@ -50,7 +50,7 @@ Use the links below to connect with I2 on our social platforms:
 
 ## Announcements
 
-| **3/29/2025** It's been a long time since we had an announcement, so we will make one! The left sidebar has been reorganized, and a link to the new I2 Grimoire textbook was added! |
+| **3/29/2025** It's been a long time since we had an announcement, so we will make one! The left sidebar has been reorganized, and a link to the new i2 Grimoire textbook was added! |
 
 | **11/2/2023** Long overdue website overhaul has begun! Projects are up to date as of November 2023 and links should take you to the proper places. Happy browsing! |
 
@@ -70,7 +70,7 @@ Use the links below to connect with I2 on our social platforms:
 
 | **3/7/2022** Our next meeting (Meeting 5) will be two and a half hours long, thirty minutes longer than our usual meetings. Check out the agenda for [Meeting 5](https://interactive-intelligence.github.io/meetings/win2022/meeting-5). |
 
-| **3/6/2022** I2 officially has an [Instagram account](https://www.instagram.com/uw_i2/){:target="_blank"}! Thanks to Sabrina for managing our social media presence. Keep posted for updates and information there! |
+| **3/6/2022** i2 officially has an [Instagram account](https://www.instagram.com/uw_i2/){:target="_blank"}! Thanks to Sabrina for managing our social media presence. Keep posted for updates and information there! |
 
 | **3/5/2022** Notes for [Meeting 4](https://interactive-intelligence.github.io/meetings/win2022/meeting-4) have been published. Thanks to the Reinforcement Learning and Neuromorphic Computing groups for awesome presentations! |
 
