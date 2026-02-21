@@ -11,4 +11,4 @@ Education
 Research
 {:.label .label-yellow}
 
-Hi, I'm Diya! I'm a computer science major, and I took I2's intro course in Fall 2023. Outside of academics, I love to read, cook, and crochet.
+Hi, I'm Diya, one of the i2 Fellows Leads! I'm a computer science major, and I took i2's intro course in Fall 2023. Outside of academics, I love to read, cook, and crochet.
