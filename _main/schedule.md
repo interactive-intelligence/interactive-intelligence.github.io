@@ -10,7 +10,7 @@ nav_order: 3
 Please join our discord for the most up to date information about our meetings!
 
 <div class="btn-discord">
-    <a href="https://discord.gg/D88jazKwj3" target="_blank" aria-label="Join our Discord community">
+    <a href="https://discord.gg/QeGDNYVh" target="_blank" aria-label="Join our Discord community">
         <div class="icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 127.14 96.36" role="img" aria-labelledby="discord-icon-title">
                 <title id="discord-icon-title">Discord logo</title>
