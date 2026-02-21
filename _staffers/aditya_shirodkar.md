@@ -1,6 +1,6 @@
 ---
 name: Aditya Shirodkar
-role: Officer
+role: inactive
 email: shirodkar987@gmail.com
 photo: aditya_shirodkar.jpg
 ---
