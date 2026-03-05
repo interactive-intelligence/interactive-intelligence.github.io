@@ -1,6 +1,6 @@
 ---
 name: Frank Li
-role: Officer
+role: Alumni
 email: angli23@cs.washington.edu
 website: https://www.linkedin.com/in/anglifrank
 photo: frank_li.jpg

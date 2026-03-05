@@ -13,4 +13,4 @@ Philosophy, CS
 {: .label .label-blue }
 
 I'm interested in human-AI interaction and AI for philosophy & thought.
-I was a founding member of I2.
+I was a founding member of i2.

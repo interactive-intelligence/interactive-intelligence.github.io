@@ -12,4 +12,4 @@ Business Advisor
 Mathematics
 {: .label .label-blue }
 
-Passionate about bringing the beauty of I2's research to the nationwide stage. As business lead of I2, I advise all business decisions and connect the club with emerging figures in the neuroscience and AI fields. On the side, I am the President of Husky Flying Club, an AFROTC Cadet interested in Space Force, and an avid Smiths enjoyer.
+Passionate about bringing the beauty of i2's research to the nationwide stage. As business lead of i2, I advise all business decisions and connect the club with emerging figures in the neuroscience and AI fields. On the side, I am the President of Husky Flying Club, an AFROTC Cadet interested in Space Force, and an avid Smiths enjoyer.

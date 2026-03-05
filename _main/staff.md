@@ -11,7 +11,7 @@ description: Meet our awesome team members!
 Meet our awesome team members!
 {: .fs-6 .fw-300 }
 
-| If you're interested in joining or want some more information, please shoot us an email @ `interintel@uw.edu` and/or hop into a meeting! Make sure to join our [Discord community](https://discord.gg/DZuyeyVHVV){:target="_blank"} too - it's our primary source of communication. |
+| If you're interested in joining or want some more information, please shoot us an email @ `interintel@uw.edu` and/or hop into a meeting! Make sure to join our [Discord community](https://discord.gg/QeGDNYVh){:target="_blank"} too - it's our primary source of communication. |
 
 ## Founder
 
@@ -23,13 +23,6 @@ Meet our awesome team members!
 ## Current Presidents
 
 {% assign president = site.staffers | where: 'role', 'President' %}
-{% for staffer in president %}
-{{ staffer }}
-{% endfor %}
-
-## 2024-2025 Presidents
-
-{% assign president = site.staffers | where: 'role', 'President2425' %}
 {% for staffer in president %}
 {{ staffer }}
 {% endfor %}

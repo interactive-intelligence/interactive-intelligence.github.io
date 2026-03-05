@@ -1,6 +1,6 @@
 ---
 name: Anupritaa Parasnis
-role: Officer
+role: inactive
 email: aparas2@uw.edu
 photo: anupritaa_parasnis.jpg
 ---

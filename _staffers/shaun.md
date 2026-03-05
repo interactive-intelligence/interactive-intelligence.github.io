@@ -1,6 +1,6 @@
 ---
 name: Shaun Christopher Lee
-role: Member
+role: inactive
 email: shauncl8@uw.edu
 website: https://www.instagram.com/shaunchristopherlee/
 photo: shaun.jpg

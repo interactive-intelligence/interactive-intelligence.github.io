@@ -1,6 +1,6 @@
 ---
 name: Varun Ananth
-role: President2425
+role: Alumni
 email: varunananth1@gmail.com
 website: https://www.linkedin.com/in/varunananth1
 photo: varun.jpg

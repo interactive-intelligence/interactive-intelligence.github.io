@@ -5,14 +5,12 @@ description: The weekly event schedule.
 nav_order: 3
 ---
 
-# I2 Schedule
-
-<!-- | **!!!** I2 will not have weekly meetings on the Fridays 3/18 (finals week) and 3/25 (Spring break). The last Journal Club meeting is on Monday (3/14) from 5:00 PM to 7:00 PM at HUB 238, not the usual Sieg 332. | -->
+# i2 Schedule
 
 Please join our discord for the most up to date information about our meetings!
 
 <div class="btn-discord">
-    <a href="https://discord.gg/D88jazKwj3" target="_blank" aria-label="Join our Discord community">
+    <a href="https://discord.gg/QeGDNYVh" target="_blank" aria-label="Join our Discord community">
         <div class="icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 127.14 96.36" role="img" aria-labelledby="discord-icon-title">
                 <title id="discord-icon-title">Discord logo</title>

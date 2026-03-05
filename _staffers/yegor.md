@@ -1,6 +1,6 @@
 ---
 name: Yegor Kuznetsov
-role: Officer
+role: Alumni
 email: yegor@uw.edu
 website:
 photo: yegor.jpg

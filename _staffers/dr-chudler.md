@@ -1,6 +1,6 @@
 ---
 name: Dr. Eric Chudler
-role: Advisor
+role: inactive
 email: chudler@uw.edu
 website: https://depts.washington.edu/neurogrd/people/faculty/eric-chudler/
 photo: dr-chudler.jpg

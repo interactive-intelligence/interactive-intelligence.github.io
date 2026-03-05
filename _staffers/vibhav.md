@@ -1,6 +1,6 @@
 ---
 name: Vibhav Peri
-role: Officer
+role: Alumni
 email: vperi@uw.edu
 website: https://www.linkedin.com/in/vibhav-peri/
 photo: vibhav.jpg

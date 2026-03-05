@@ -1,6 +1,6 @@
 ---
 name: Alec Bunn
-role: Member
+role: inactive
 email: abunn2@uw.edu
 website: https://www.linkedin.com/in/alecbunn/
 photo: alec.jpg
