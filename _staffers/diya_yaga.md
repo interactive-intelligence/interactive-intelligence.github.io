@@ -6,7 +6,7 @@ photo: diya_yaga.jpg
 ---
 
 Education
-{: .label .label-yellow}
+{: .label .label-green}
 
 Research
 {:.label .label-yellow}
