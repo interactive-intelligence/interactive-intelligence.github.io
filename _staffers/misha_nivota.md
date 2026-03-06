@@ -8,8 +8,6 @@ photo: misha_nivota.jpg
 Administrative
 {: .label .label-grey}
 
-<span style="background-color:#008080; color:white; padding:0.2em 0.6em; border-radius:0.25em; font-size:0.75em; font-weight:700;">Education</span>
-
 Education
 {: .label .label-green}
 
