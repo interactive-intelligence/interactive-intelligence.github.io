@@ -2,7 +2,7 @@
 name: Divij Chawla
 role: Officer
 email: dc245@uw.edu
-photo: misha_nivota.jpg
+photo: divij_c.png
 ---
 
 Curriculum

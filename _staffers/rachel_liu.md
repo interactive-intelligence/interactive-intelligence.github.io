@@ -2,7 +2,7 @@
 name: Rachel Liu
 role: Officer
 email: rlliu@uw.edu
-photo: misha_nivota.jpg
+photo: rachel_l.png
 ---
 
 Administrative

@@ -2,7 +2,7 @@
 name: Yifan Wen
 role: Officer
 email: yifanw64@uw.edu
-photo: pushpesh_thakur.jpg
+photo: yifan_w.png
 ---
 
 Technical

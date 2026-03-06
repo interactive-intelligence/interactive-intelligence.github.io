@@ -2,7 +2,7 @@
 name: Abel Mesfin
 role: Officer
 email: abelmtc@uw.edu
-photo: misha_nivota.jpg
+photo: abel_m.png
 ---
 
 i2 Talks

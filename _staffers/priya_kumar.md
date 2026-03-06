@@ -1,8 +1,8 @@
 ---
 name: Priya Kumar
 role: Officer
-email: dc245@uw.edu
-photo: misha_nivota.jpg
+email: pkumar7@uw.edu
+photo: priya_k.png
 ---
 
 Social Media
