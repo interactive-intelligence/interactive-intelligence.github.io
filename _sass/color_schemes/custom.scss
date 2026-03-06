@@ -24,3 +24,10 @@ $btn-primary-color: #5c64d6;
 // $search-background-color: $grey-dk-250;
 // $table-background-color: $grey-dk-250;
 $feedback-color: darken($sidebar-color, 2%);
+
+$grey-label: #8f8895;
+
+.label-grey {
+  background-color: $grey-label;
+  color: #fff; // or adjust for contrast
+}
