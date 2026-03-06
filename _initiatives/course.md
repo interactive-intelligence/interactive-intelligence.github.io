@@ -14,7 +14,9 @@ Congratulations to all of our graduates!
 ## Graduates
 Total number of graduates: 186
 
-Fall 2025
+<details open markdown="block">
+<summary>Fall 2025</summary>
+
 - Aaryan Wanjari
 - Abdul Razik Bijapuri
 - Advaith Vankamamidi
@@ -73,8 +75,11 @@ Fall 2025
 - Zahid Mannan
 - Zeen Zheng
 - Zubair Syed
+</details>
 
-Spring 2025
+<details open markdown="block">
+<summary>Spring 2025</summary>
+
 - Andrew Yao
 - Becky Jiang
 - Benjamin So
@@ -99,8 +104,11 @@ Spring 2025
 - Shreya Kasireddy
 - Srimedha Thummala
 - Tristan Suwito
+</details>
 
-Fall 2024
+<details open markdown="block">
+<summary>Fall 2024</summary>
+
 - Aahan Patel
 - Abel Mesfin
 - Advay Patil
@@ -139,8 +147,11 @@ Fall 2024
 - Veeksha Lingampalli
 - Yoyo Yu
 - Yung-Ching Lin
+</details>
 
-Spring 2024
+<details open markdown="block">
+<summary>Spring 2024</summary>
+
 - Ajit Mallavarapu
 - Ping Wang
 - Kaden Pothisuntorn
@@ -160,8 +171,11 @@ Spring 2024
 - Elaine Lu
 - Brinda Moudgalya
 - Jeffrey Lee
+</details>
 
-Fall 2023
+<details open markdown="block">
+<summary>Fall 2023</summary>
+
 - Aiden Reeder
 - Anika Tak
 - Annabelle Martin
@@ -192,8 +206,11 @@ Fall 2023
 - Yuning Hu
 - Zijing Wei
 - Dalton Brockett
+</details>
 
-Spring 2023
+<details open markdown="block">
+<summary>Spring 2023</summary>
+
 - Albert Wang
 - Angelo Dauz
 - Ethan Bai
@@ -205,11 +222,15 @@ Spring 2023
 - Molly Park
 - Siddharth Thiagarajan
 - Tyler Ramos
+</details>
 
-Winter 2023
+<details open markdown="block">
+<summary>Winter 2023</summary>
+
 - Ameya Agrawal
 - Eric Ye
 - Frank Li
 - Greg Baimetov
 - Gunn Kim
 - Vibhav Peri
+</details>
