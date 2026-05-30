@@ -21,11 +21,11 @@ i2 is UW's student led NeuroAI education and research organization. i2 is an env
 
 Use the links below to connect with i2 on our social platforms:
 
-[Discord 🤖](https://discord.gg/QeGDNYVh){: .btn }
+[Discord 🤖](https://discord.com/invite/Ph8njzHedC){: .btn }
 [Email 📧](mailto:interintel@uw.edu){: .btn }
 [Instagram 📸](https://www.instagram.com/uw_i2/){: .btn }
 [YouTube 📺](https://www.youtube.com/channel/UCnOSBig3HbEHFUi2HBA7EtA){: .btn }
-[Twitter 📱](https://twitter.com/InteractiveInt9){: .btn }
+[LinkedIn 💼](https://www.linkedin.com/company/uw-i2/){: .btn }
 [LinkTree 🌳](https://linktr.ee/interactive_intelligence){: .btn }
 
 <!-- <a href="https://discord.gg/DZuyeyVHVV"><img src="https://user-images.githubusercontent.com/73039742/156947590-e515ea57-2803-4752-a6fa-cf0c561fdfe6.png" width="50" height="50" /></a>
